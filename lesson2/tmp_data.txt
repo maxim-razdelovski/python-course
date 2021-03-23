@@ -1,0 +1,1 @@
+goods_list = [(0, {'name': 'comp', 'price': 77.0, 'quantity': 2, 'unit': 'pcs'}), (1, {'name': 'tv', 'price': 33.0, 'quantity': 4, 'unit': 'pcs'}), (2, {'name': 'rice', 'price': 3.0, 'quantity': 88, 'unit': 'kg'})]
