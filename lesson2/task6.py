@@ -49,6 +49,5 @@ for idx, key in enumerate(goods_attributes.keys()):
         values = goods_attributes[key].copy()
         values.append(item[1].get(key))
         goods_attributes[key] = values if key != 'unit' else list(set(values))
-        values = []
 
 print(goods_attributes)
